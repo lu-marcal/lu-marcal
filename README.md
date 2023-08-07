@@ -1,4 +1,4 @@
-##Introducing myself 💁🏾‍♀️
+## Introducing myself 💁🏾‍♀️
 
    Welcome! I'm Luciana, a Data/BI Analyst and SQL enthusiast from 🇧🇷 Brazil 
 
@@ -10,11 +10,11 @@
  - 🎲📚 Worked with MS Excel for several years over my career, but now I'm discovering other nice tools to work and get insights from data!
 
 
-##📝 Projects
+## 📝 Projects
 
 You're invited to access my portfolio, where I showcase my projects with data. Feel free to send me any feedback!
 
-##🛠️ Tools
+## 🛠️ Tools
 
  - Language: SQL, Python, R, 
  - Database: SSMS, MySQL, Google BigQuery
