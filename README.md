@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @lu-marcal! Pleased to meet ya! 
-- 🌱 I’m currently learning Data Analytics, Python, and SQL
-- 📫 LinkedIn: https://www.linkedin.com/in/lucianamarcal/
+## Hi, there!
 
-<!---
-lu-marcal/lu-marcal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Luciana, a self-taught Data Analyst and SQL enthusiast from 🇧🇷 Brazil 
+
+🐝 Here's a quick About Me 🐝
+👷🏾‍♀️ ⚙️ Engineering background with experiences in Retail, Mining, and Finance, with over 11 years of experience
+👩🏾‍💻📊 Transition to the field of Data by March 2023
+ 🏆  I enjoy working with numbers, spreadsheets, and datasets. I learned SQL, Power BI, Tableau, and Python by myself.
+ 🎲 Worked with MS Excel for several years over my career, but now I'm discovering other nice tools to work and get insights from data!
+
